@@ -1,2 +1,4 @@
-/binstar.token
 /.vagrant
+
+/binstar.token
+/queuename

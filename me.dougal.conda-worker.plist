@@ -8,7 +8,6 @@
         <key>ProgramArguments</key>
         <array>
             <string>/Users/vagrant/conda-worker.sh</string>
-            <string>USERNAME/QUEUENAME</string> <!-- EDIT ME -->
         </array>
 
         <key>StandardOutPath</key>
